@@ -223,3 +223,515 @@ Language: English, Swedish, Italian
 Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 *****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=935c5f681f794022b8e77faff0b21f42
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=935c5f681f794022b8e77faff0b21f42
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=935c5f681f794022b8e77faff0b21f42
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=935c5f681f794022b8e77faff0b21f42
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=935c5f681f794022b8e77faff0b21f42
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=935c5f681f794022b8e77faff0b21f42
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=935c5f681f794022b8e77faff0b21f42
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=935c5f681f794022b8e77faff0b21f42
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=935c5f681f794022b8e77faff0b21f42
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=935c5f681f794022b8e77faff0b21f42
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=935c5f681f794022b8e77faff0b21f42
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=935c5f681f794022b8e77faff0b21f42
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=935c5f681f794022b8e77faff0b21f42
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=935c5f681f794022b8e77faff0b21f42
+album: Timeless Love
+artist(s): Love Hits On Piano
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=935c5f681f794022b8e77faff0b21f42
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=935c5f681f794022b8e77faff0b21f42
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=935c5f681f794022b8e77faff0b21f42
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=935c5f681f794022b8e77faff0b21f42
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-06-20T19:00:48
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: MGM Grand Garden Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-06-22T19:00:46
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Pechanga Arena San Diego
+Venue Location: San Diego
+Date of the Event: 2019-06-23T19:00:19
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-06-25T19:00:35
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-06-26T19:00:25
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-06-28T19:00:24
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-06-29T19:00:21
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-07-01T19:00:16
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-07-04T19:00:58
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-07-07T19:00:19
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Spokane Arena
+Venue Location: Spokane
+Date of the Event: 2019-07-09T19:00:30
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-12T19:00:11
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-07-14T19:00:49
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: AT &T Center
+Venue Location: San Antonio
+Date of the Event: 2019-07-16T19:00:31
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-07-18T19:00:51
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-07-19T19:00:02
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Sprint Center
+Venue Location: Kansas City
+Date of the Event: 2019-07-21T19:00:19
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-23T19:00:46
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-07-25T19:00:42
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Nationwide Arena
+Venue Location: Columbus
+Date of the Event: 2019-07-26T19:00:52
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-07-28T19:00:29
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-07-29T19:00:56
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-08-01T19:00:17
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-08-03T19:00:59
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: XL Center
+Venue Location: Hartford
+Date of the Event: 2019-08-04T19:00:52
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-08-06T19:00:29
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-08-07T19:00:57
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-08-08T19:00:11
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-08-10T19:00:56
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-08-11T19:00:04
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-08-13T19:00:31
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-08-14T19:00:48
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-08-16T19:00:24
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-08-17T19:00:22
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Barclaycard Arena Hamburg
+Venue Location: Hamburg
+Date of the Event: 2019-09-09T19:00:40
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Hovet
+Venue Location: Enskede-årsta-vantör
+Date of the Event: 2019-09-11T19:00:20
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Oslo Spektrum
+Venue Location: Grünerløkka
+Date of the Event: 2019-09-13T19:00:52
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Royal Arena
+Venue Location: København S
+Date of the Event: 2019-09-14T19:00:01
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-17T19:00:06
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-18T19:00:24
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-20T19:00:55
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Resorts World Arena
+Venue Location: Birmingham
+Date of the Event: 2019-09-21T19:00:49
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: First Direct Arena
+Venue Location: Leeds
+Date of the Event: 2019-09-22T19:00:18
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-24T19:00:09
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: SSE Arena
+Venue Location: Belfast
+Date of the Event: 2019-09-25T19:00:02
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: Jahrhunderthalle
+Venue Location: Frankfurt Am Main
+Date of the Event: 2019-09-28T19:00:25
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: Lotto Arena
+Venue Location: Antwerpen
+Date of the Event: 2019-09-29T19:00:36
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-10-01T19:00:42
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: König-Pilsener-ARENA
+Venue Location: Oberhausen
+Date of the Event: 2019-10-02T19:00:34
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: L'Olympia Bruno Coquatrix
+Venue Location: Paris
+Date of the Event: 2019-10-04T19:00:14
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: L'Olympia Bruno Coquatrix
+Venue Location: Paris
+Date of the Event: 2019-10-05T19:00:12
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Rockhal
+Venue Location: Esch-sur-alzette
+Date of the Event: 2019-10-06T19:00:28
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Samsung Hall Zürich
+Venue Location: Zürich
+Date of the Event: 2019-10-08T19:00:23
+*****************************
+**********EVENT INFO*********
+54
+Name of the Venue: Zenith - The Cultural Hall
+Venue Location: München
+Date of the Event: 2019-10-09T19:00:17
+*****************************
+**********EVENT INFO*********
+55
+Name of the Venue: Spark Arena
+Venue Location: Auckland
+Date of the Event: 2019-11-20T19:00:40
+*****************************
+**********EVENT INFO*********
+56
+Name of the Venue: Spark Arena
+Venue Location: Auckland
+Date of the Event: 2019-11-21T19:00:15
+*****************************
+**********EVENT INFO*********
+57
+Name of the Venue: Brisbane Entertainment Centre
+Venue Location: Boondall
+Date of the Event: 2019-11-26T19:00:36
+*****************************
+**********EVENT INFO*********
+58
+Name of the Venue: Rod Laver Arena
+Venue Location: Melbourne
+Date of the Event: 2019-11-28T19:00:34
+*****************************
+**********EVENT INFO*********
+59
+Name of the Venue: Adelaide Entertainment Centre
+Venue Location: Hindmarsh
+Date of the Event: 2019-12-02T19:00:16
+*****************************
+**********EVENT INFO*********
+60
+Name of the Venue: Qudos Bank Arena
+Venue Location: Sydney Olympic Park
+Date of the Event: 2019-12-04T19:00:53
+*****************************
+**********EVENT INFO*********
+61
+Name of the Venue: Qudos Bank Arena
+Venue Location: Sydney Olympic Park
+Date of the Event: 2019-12-05T19:00:35
+*****************************
