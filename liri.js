@@ -4,6 +4,7 @@ require("dotenv").config();
 //import keys.js, store in variable
 var keys = require("./keys.js");
 
+var request = require("request");
 var fs = require("fs");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);

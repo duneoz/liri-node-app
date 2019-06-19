@@ -138,3 +138,75 @@ preview song: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b1
 album: Greatest Hits
 artist(s): Ace of Base
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Firefly Festival
+Venue Location: Dover
+Date of the Event: 2019-06-23T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Pendleton Whisky Music Fest
+Venue Location: Pendleton
+Date of the Event: 2019-07-13T16:00:40
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Cheyenne Frontier Days - Frontier Park
+Venue Location: Cheyenne
+Date of the Event: 2019-07-25T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Festival MEO Sudoeste
+Venue Location: Odemira
+Date of the Event: 2019-08-08T19:00:22
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Sziget Festival
+Venue Location: Budapest
+Date of the Event: 2019-08-11T12:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Downtown Las Vegas
+Venue Location: Las Vegas
+Date of the Event: 2019-09-20T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: City Park
+Venue Location: New Orleans
+Date of the Event: 2019-10-25T19:00:00
+*****************************
